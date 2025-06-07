@@ -2,7 +2,7 @@
 
 # 데이터 & AI를 활용한 물가 예측 경진대회
 
-[English Version](README_en.md)
+[English Version](README.en.md)
 
 ## 주관
 
